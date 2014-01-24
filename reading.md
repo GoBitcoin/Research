@@ -8,6 +8,7 @@
 
 ##Links
 
-!(BIPS)[https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki]
+* [BIPS-32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
 
 ##Other Projects
+* [BitcoinJ](https://code.google.com/p/bitcoinj/)
