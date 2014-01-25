@@ -11,6 +11,7 @@
 * [BIPS-32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
 * [Ethereum](http://ethereum.org/ethereum.html#p1)
 * [GHOST](http://www.cs.huji.ac.il/~avivz/pubs/13/btc_scalability_full.pdf)
+* [CLL](http://wiki.ethereum.org/index.php/CLL)
 
 
 ##Other Projects
