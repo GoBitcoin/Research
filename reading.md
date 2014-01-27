@@ -14,7 +14,4 @@
 * [CLL](http://wiki.ethereum.org/index.php/CLL)
 * [Bitcoin2.0](http://voices.yahoo.com/bitcoin-20-explained-colored-coins-vs-mastercoin-vs-12475857.html)
 * [Open Transaction](http://opentransactions.org)
-
-
-##Other Projects
 * [BitcoinJ](https://code.google.com/p/bitcoinj/)
