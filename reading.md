@@ -12,6 +12,8 @@
 * [Ethereum](http://ethereum.org/ethereum.html#p1)
 * [GHOST](http://www.cs.huji.ac.il/~avivz/pubs/13/btc_scalability_full.pdf)
 * [CLL](http://wiki.ethereum.org/index.php/CLL)
+* [Bitcoin2.0](http://voices.yahoo.com/bitcoin-20-explained-colored-coins-vs-mastercoin-vs-12475857.html)
+* [Open Transaction](http://opentransactions.org)
 
 
 ##Other Projects
