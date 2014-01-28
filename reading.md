@@ -15,3 +15,4 @@
 * [Bitcoin2.0](http://voices.yahoo.com/bitcoin-20-explained-colored-coins-vs-mastercoin-vs-12475857.html)
 * [Open Transaction](http://opentransactions.org)
 * [BitcoinJ](https://code.google.com/p/bitcoinj/)
+* [ProtoShare](https://bitcointalk.org/index.php?topic=325261.0)
