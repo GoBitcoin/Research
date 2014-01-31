@@ -16,3 +16,4 @@
 * [Open Transaction](http://opentransactions.org)
 * [BitcoinJ](https://code.google.com/p/bitcoinj/)
 * [ProtoShare](https://bitcointalk.org/index.php?topic=325261.0)
+* [NameCoin](https://en.bitcoin.it/wiki/Namecoin)
