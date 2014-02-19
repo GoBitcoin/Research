@@ -21,9 +21,9 @@
 ##Ethereum:
 * [Official Wiki](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Ethereum-TOC)
 * [Whitepaper](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper)
-* [Incentive to host full node (Eth)](http://www.reddit.com/r/ethereum/comments/1x5yg5/incentives_to_host_a_full_node/)
-* [AMA with founders (eth)](http://www.reddit.com/r/IAmA/comments/1xb5rj/hi_were_the_ethereum_founding_team_ask_us_anything/cf9zuek)
-* [Node Docker file (eth)](https://gist.github.com/caktux/483d2679f5f544b32ce9)
+* [Incentive to host full node](http://www.reddit.com/r/ethereum/comments/1x5yg5/incentives_to_host_a_full_node/)
+* [AMA with founders](http://www.reddit.com/r/IAmA/comments/1xb5rj/hi_were_the_ethereum_founding_team_ask_us_anything/cf9zuek)
+* [Node Docker file](https://gist.github.com/caktux/483d2679f5f544b32ce9)
 * [GHOST](http://www.cs.huji.ac.il/~avivz/pubs/13/btc_scalability_full.pdf)
 
 
