@@ -16,6 +16,7 @@
 * [Fidelity-bonded banks](https://bitcointalk.org/index.php?topic=146307.0)
 * [SNARK-based crypto validation](https://bitcointalk.org/index.php?topic=367049.0)
 * [bitcoin muti-sig address generator](https://coinb.in/multisig/)
+* [bitcoinmonitor - setup alerts for events relatedto your wallet](http://www.bitcoinmonitor.net/)
 
 ##Ethereum:
 * [Official Wiki](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Ethereum-TOC)
