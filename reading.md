@@ -22,3 +22,4 @@
 * [AMA with founders (eth)](http://www.reddit.com/r/IAmA/comments/1xb5rj/hi_were_the_ethereum_founding_team_ask_us_anything/cf9zuek)
 * [Node Docker file (eth)](https://gist.github.com/caktux/483d2679f5f544b32ce9)
 * [SNARK-based crypto validation](https://bitcointalk.org/index.php?topic=367049.0)
+* [bitcoin muti-sig address generator](https://coinb.in/multisig/)
