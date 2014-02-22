@@ -17,6 +17,7 @@
 * [SNARK-based crypto validation](https://bitcointalk.org/index.php?topic=367049.0)
 * [bitcoin muti-sig address generator](https://coinb.in/multisig/)
 * [bitcoinmonitor - setup alerts for events relatedto your wallet](http://www.bitcoinmonitor.net/)
+* [Overlay network protocol over Bitcoin](https://bitcointalk.org/index.php?topic=55842.0)
 
 ##Ethereum:
 * [Official Wiki](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Ethereum-TOC)
