@@ -26,6 +26,6 @@
 * [AMA with founders](http://www.reddit.com/r/IAmA/comments/1xb5rj/hi_were_the_ethereum_founding_team_ask_us_anything/cf9zuek)
 * [Node Docker file](https://gist.github.com/caktux/483d2679f5f544b32ce9)
 * [GHOST](http://www.cs.huji.ac.il/~avivz/pubs/13/btc_scalability_full.pdf)
-
+* [Scalability and Decentralization update](http://blog.ethereum.org/2014/02/18/ethereum-scalability-and-decentralization-updates/)
 
 
