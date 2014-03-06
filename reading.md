@@ -4,6 +4,7 @@
 * Practical Cryptography with Go: Kyle Isom
 * Applied Cryptography Protocols, Algorithms, and Source Code in C: Bruce Schneier
 * Great Chain of Numbers: A Guide to Smart Contracts, Smart Property and Trustless Asset Management
+* [FLUSH+RELOAD side-channel attacks on secp256k1 used in the Bitcoin protocol](http://eprint.iacr.org/2014/161.pdf)
 
 ##Bitcoin:
 
