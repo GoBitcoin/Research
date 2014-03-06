@@ -30,5 +30,5 @@
 * [GHOST](http://www.cs.huji.ac.il/~avivz/pubs/13/btc_scalability_full.pdf)
 * [Scalability and Decentralization update](http://blog.ethereum.org/2014/02/18/ethereum-scalability-and-decentralization-updates/)
 * [LLL Tutorial](https://github.com/ethereum/cpp-ethereum/wiki/LLL-Tutorial?utm_content=buffera9fc5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-
+* [Casey's EPM proposal](http://coda.caseykuhlman.com/entries/2014/introducing-ethereum-package-manager.html?utm_source=twitter.com&utm_medium=social&utm_campaign=buffer&utm_content=buffer17d52)
 
