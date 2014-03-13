@@ -13,7 +13,6 @@
 * [BIPS-32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
 * [Bitcoin2.0](http://voices.yahoo.com/bitcoin-20-explained-colored-coins-vs-mastercoin-vs-12475857.html)
 * [Open Transaction](http://opentransactions.org)
-* [BitcoinJ](https://code.google.com/p/bitcoinj/)
 * [ProtoShare](https://bitcointalk.org/index.php?topic=325261.0)
 * [NameCoin](https://en.bitcoin.it/wiki/Namecoin)
 * [Fidelity-bonded banks](https://bitcointalk.org/index.php?topic=146307.0)
@@ -22,6 +21,10 @@
 * [bitcoinmonitor - setup alerts for events relatedto your wallet](http://www.bitcoinmonitor.net/)
 * [Overlay network protocol over Bitcoin](https://bitcointalk.org/index.php?topic=55842.0)
 * [Transaction Input Signatures in Blockchain over time](http://codesuppository.blogspot.com/2014/03/transaction-input-signatures-in-bitcoin.html)
+
+##BitcoinJ
+* [BitcoinJ](https://code.google.com/p/bitcoinj/)
+* [Considering deletion of full verification codepaths](https://groups.google.com/forum/#!topic/bitcoinj/0dRodYWVI4c)
 
 ##Ethereum:
 * [Official Wiki](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-Ethereum-TOC)
