@@ -21,6 +21,7 @@
 * [bitcoinmonitor - setup alerts for events relatedto your wallet](http://www.bitcoinmonitor.net/)
 * [Overlay network protocol over Bitcoin](https://bitcointalk.org/index.php?topic=55842.0)
 * [Transaction Input Signatures in Blockchain over time](http://codesuppository.blogspot.com/2014/03/transaction-input-signatures-in-bitcoin.html)
+* [Bitcoin core 0.9 release notes from Jeff](http://garzikrants.blogspot.com/2014/03/bitcore-core-v090-release-overview.html?m=1)
 
 ##BitcoinJ
 * [BitcoinJ](https://code.google.com/p/bitcoinj/)
