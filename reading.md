@@ -24,6 +24,7 @@
 * [Bitcoin core 0.9 release notes from Jeff](http://garzikrants.blogspot.com/2014/03/bitcore-core-v090-release-overview.html?m=1)
 * [Stealth Adddress](http://sourceforge.net/p/bitcoin/mailman/message/31813471/)
 * [2 of 2 signing](https://bitcointalk.org/index.php?topic=511074.0)
+* [Bitcoin Transaction Malleability and Mt. Gox](http://arxiv.org/pdf/1403.6676v1.pdf)
 
 ##BitcoinJ
 * [BitcoinJ](https://code.google.com/p/bitcoinj/)
