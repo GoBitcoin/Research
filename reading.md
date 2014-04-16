@@ -7,6 +7,7 @@
 * [FLUSH+RELOAD side-channel attacks on secp256k1 used in the Bitcoin protocol](http://eprint.iacr.org/2014/161.pdf)
 * [Probabilistically checkable proofs](http://en.wikipedia.org/wiki/Probabilistically_checkable_proof)
 * [Succinct Non-Interactive Arguments via Linear Interactive Proofs](https://eprint.iacr.org/2012/718.pdf)
+* [Aantonop's bitcoin book](https://github.com/aantonop/bitcoinbook)
 
 ##Bitcoin:
 
