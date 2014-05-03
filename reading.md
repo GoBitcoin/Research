@@ -27,6 +27,7 @@
 * [2 of 2 signing](https://bitcointalk.org/index.php?topic=511074.0)
 * [Bitcoin Transaction Malleability and Mt. Gox](http://arxiv.org/pdf/1403.6676v1.pdf)
 * [Sidechain Feasibility](https://bitcointalk.org/index.php?topic=566704.0)
+* [DECOR](http://bitslog.wordpress.com/2014/05/02/decor/)
 
 ##BitcoinJ
 * [BitcoinJ](https://code.google.com/p/bitcoinj/)
